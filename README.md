@@ -1,4 +1,4 @@
-# 🧸 **Toy Store E-Commerce Analytics Dashboard (Power BI)**
+#  **Toy Store E-Commerce Analytics Dashboard (Power BI)**
 
 ### *End-to-End Data Analysis | Marketing Insights | Product & Website Performance | Teddy Bears Store*
 
