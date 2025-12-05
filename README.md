@@ -148,8 +148,3 @@ This page explains **how users interact with the website**.
 
 ---
 
-
-
-
-
-Just tell me!
