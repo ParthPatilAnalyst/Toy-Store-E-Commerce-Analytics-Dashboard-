@@ -134,17 +134,5 @@ This page explains **how users interact with the website**.
 * Product returns were highest for the “Original Mr. Fuzzy.”
 * Pageviews grew strongly from 2013–2015.
 
----
 
-# 📦 **Project Deliverables**
-
-* ✔ Cleaned and transformed dataset
-* ✔ Power BI report (.pbix file)
-* ✔ Fully interactive dashboard
-* ✔ Time-series analysis
-* ✔ Product performance analytics
-* ✔ Website behavior insights
-* ✔ Marketing attribution analysis
-
----
 
