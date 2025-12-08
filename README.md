@@ -24,6 +24,8 @@ The report contains **three interactive pages**:
 ✔ Product Details
 ✔ Website Details
 
+![image alt](https://github.com/ParthPatilAnalyst/Toy-Store-E-Commerce-Analytics-Dashboard-/blob/bdac3abea32a449b8fe643c49a8a685d2872bb19/Screenshot%202025-12-05%20183222.png)
+![image alt](https://github.com/ParthPatilAnalyst/Toy-Store-E-Commerce-Analytics-Dashboard-/blob/bdac3abea32a449b8fe643c49a8a685d2872bb19/Screenshot%202025-12-05%20183259.png)
 ---
 
 ## 🎯 **Key Business Questions Answered**
